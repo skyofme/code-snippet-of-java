@@ -7,6 +7,7 @@ public class Test1 {
 //		i++;
 //		i += 1;
 //		i = i + 1; // error
+
 	}
 	
 }
